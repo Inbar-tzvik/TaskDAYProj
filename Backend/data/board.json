@@ -1,0 +1,570 @@
+[{
+        "_id": "62430dc81cdd644b3e5acabd",
+        "title": "Project-X",
+        "createdAt": 1589983468418,
+        "style": {
+            "bgColor": "blue"
+        },
+        "labels": [{
+                "id": "l101",
+                "title": "Done",
+                "color": "#61bd4f"
+            },
+            {
+                "id": "l102",
+                "title": "Progress",
+                "color": "#61bd33"
+            }
+        ],
+        "members": [{
+                "_id": "u101",
+                "fullname": "Inbari Tzvik",
+                "imgUrl": "https://freedesignfile.com/upload/2019/04/Smiling-woman-hand-on-face-Stock-Photo.jpg"
+            },
+            {
+                "_id": "u102",
+                "fullname": "Itzik Vaknin",
+                "imgUrl": "https://www4.pictures.zimbio.com/pc/Bruce+Willis+attending+photocall+Moonrise+fNEpMjXt7jcx.jpg"
+            },
+            {
+                "_id": "u103",
+                "fullname": "Bill Gabi",
+                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+            },
+            {
+                "_id": "u104",
+                "fullname": "Shlomi Nugra",
+                "imgUrl": "https://image.shutterstock.com/image-photo/close-portrait-smiling-handsome-man-260nw-1011569245.jpg"
+            }
+        ],
+        "groups": [{
+                "id": "g101",
+                "title": "Frontend Tasks",
+                "tasks": [{
+                        "id": "t101",
+                        "title": "Optimizing the user interface. - UI",
+                        "status": "Working on it",
+                        "priority": "Medium",
+                        "dates": {
+                            "startDate": 1648587600000,
+                            "endDate": 1649278800000
+                        },
+                        "members": [{
+                                "_id": "u101",
+                                "fullname": "Inbari Tzvik",
+                                "imgUrl": "https://freedesignfile.com/upload/2019/04/Smiling-woman-hand-on-face-Stock-Photo.jpg"
+                            },
+                            {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            }
+                        ],
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "please start with desktop first",
+                            "like": false
+                        }]
+                    },
+                    {
+                        "id": "t102",
+                        "title": "Optimizing the user experience. - UX",
+                        "status": "Stuck",
+                        "priority": "Medium",
+                        "dates": {
+                            "startDate": 1649451600000,
+                            "endDate": 1652302800000
+                        },
+                        "members": [{
+                            "_id": "u102",
+                            "fullname": "Itzik Vaknin",
+                            "imgUrl": "https://www4.pictures.zimbio.com/pc/Bruce+Willis+attending+photocall+Moonrise+fNEpMjXt7jcx.jpg"
+                        }],
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    },
+                    {
+                        "id": "t113",
+                        "title": "Using VUE, JavaScript to bring concepts to life.",
+                        "status": "Stuck",
+                        "priority": "Medium",
+                        "dates": {
+                            "startDate": 1648414800000,
+                            "endDate": 1648674000000
+                        },
+                        "members": [{
+                                "_id": "u101",
+                                "fullname": "Inbari Tzvik",
+                                "imgUrl": "https://freedesignfile.com/upload/2019/04/Smiling-woman-hand-on-face-Stock-Photo.jpg"
+                            },
+                            {
+                                "_id": "u102",
+                                "fullname": "Itzik Vaknin",
+                                "imgUrl": "https://www4.pictures.zimbio.com/pc/Bruce+Willis+attending+photocall+Moonrise+fNEpMjXt7jcx.jpg"
+                            },
+                            {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            }
+                        ],
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    },
+                    {
+                        "id": "t115",
+                        "title": "Using CSS and SCSS tools to bring concepts to life.",
+                        "status": "Done",
+                        "priority": "Low",
+                        "dates": {
+                            "startDate": 1649538000000,
+                            "endDate": 1652130000000
+                        },
+                        "members": [{
+                            "_id": "u103",
+                            "fullname": "Bill Gabi",
+                            "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                        }],
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    }
+                ],
+                "style": {
+                    "color": "rgb(87, 155, 252)"
+                }
+            },
+            {
+                "id": "g201",
+                "title": "Backend Tasks",
+                "tasks": [{
+                        "id": "t116",
+                        "title": "Developing and maintaining the user interface.",
+                        "status": "Working on it",
+                        "priority": "Low",
+                        "dates": {
+                            "startDate": "",
+                            "endDate": ""
+                        },
+                        "members": [],
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    },
+                    {
+                        "id": "c201",
+                        "title": "Participate in the entire application lifecycle, focusing on coding and debugging.",
+                        "status": "Working on it",
+                        "priority": "Medium",
+                        "members": [{
+                            "_id": "u103",
+                            "fullname": "Bill Gabi",
+                            "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                        }],
+                        "dates": {
+                            "startDate": 1650315600000,
+                            "endDate": 1652043600000
+                        },
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    },
+                    {
+                        "id": "c202",
+                        "title": "Write clean code to develop functional web applications.",
+                        "status": "Stuck",
+                        "priority": "Medium",
+                        "members": [{
+                            "_id": "u102",
+                            "fullname": "Itzik Vaknin",
+                            "imgUrl": "https://www4.pictures.zimbio.com/pc/Bruce+Willis+attending+photocall+Moonrise+fNEpMjXt7jcx.jpg"
+                        }],
+                        "dates": {
+                            "startDate": "",
+                            "endDate": ""
+                        },
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    },
+                    {
+                        "id": "c213",
+                        "title": "Troubleshoot and debug applications",
+                        "status": "Stuck",
+                        "priority": "Medium",
+                        "members": [{
+                            "_id": "u103",
+                            "fullname": "Bill Gabi",
+                            "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                        }],
+                        "dates": {
+                            "startDate": 1652043600000,
+                            "endDate": 1649106000000
+                        },
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    },
+                    {
+                        "id": "c215",
+                        "title": "Perform UI tests to optimize performance.",
+                        "status": "Done",
+                        "priority": "Medium",
+                        "members": [{
+                                "_id": "u101",
+                                "fullname": "Inbari Tzvik",
+                                "imgUrl": "https://freedesignfile.com/upload/2019/04/Smiling-woman-hand-on-face-Stock-Photo.jpg"
+                            },
+                            {
+                                "_id": "u102",
+                                "fullname": "Itzik Vaknin",
+                                "imgUrl": "https://www4.pictures.zimbio.com/pc/Bruce+Willis+attending+photocall+Moonrise+fNEpMjXt7jcx.jpg"
+                            }
+                        ],
+                        "dates": {
+                            "startDate": 1649192400000,
+                            "endDate": 1652216400000
+                        },
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    },
+                    {
+                        "id": "c216",
+                        "title": "Manage cutting-edge technologies to improve legacy applications.",
+                        "status": "Done",
+                        "priority": "Medium",
+                        "members": [],
+                        "dates": {
+                            "startDate": "",
+                            "endDate": ""
+                        },
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    }
+                ],
+                "style": {
+                    "color": "rgb(120, 75, 209)"
+                }
+            },
+            {
+                "id": "g134",
+                "title": "New Hire Checklist Steps",
+                "tasks": [{
+                        "id": "t101",
+                        "title": "Complete a background check",
+                        "status": "Working on it",
+                        "priority": "Medium",
+                        "members": [{
+                                "_id": "u101",
+                                "fullname": "Inbari Tzvik",
+                                "imgUrl": "https://freedesignfile.com/upload/2019/04/Smiling-woman-hand-on-face-Stock-Photo.jpg"
+                            },
+                            {
+                                "_id": "u102",
+                                "fullname": "Itzik Vaknin",
+                                "imgUrl": "https://www4.pictures.zimbio.com/pc/Bruce+Willis+attending+photocall+Moonrise+fNEpMjXt7jcx.jpg"
+                            }
+                        ],
+                        "dates": {
+                            "startDate": "",
+                            "endDate": ""
+                        }
+                    },
+                    {
+                        "id": "t102",
+                        "title": "Add Samples",
+                        "status": "Stuck",
+                        "priority": "High",
+                        "members": [{
+                            "_id": "u102",
+                            "fullname": "Itzik Vaknin",
+                            "imgUrl": "https://www4.pictures.zimbio.com/pc/Bruce+Willis+attending+photocall+Moonrise+fNEpMjXt7jcx.jpg"
+                        }],
+                        "dates": {
+                            "startDate": "",
+                            "endDate": ""
+                        },
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    },
+                    {
+                        "id": "t113",
+                        "title": "Working on css ",
+                        "status": "Stuck",
+                        "priority": "Medium",
+                        "members": [],
+                        "dates": {
+                            "startDate": "",
+                            "endDate": ""
+                        },
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    },
+                    {
+                        "id": "t115",
+                        "title": "Today i don't feel like doing anything",
+                        "status": "Done",
+                        "priority": "Low",
+                        "members": [],
+                        "dates": {
+                            "startDate": "",
+                            "endDate": ""
+                        },
+                        "updates": [{
+                            "byMember": {
+                                "_id": "u103",
+                                "fullname": "Bill Gabi",
+                                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+                            },
+                            "message": "change this JSON please",
+                            "like": false
+                        }]
+                    }
+                ],
+                "style": {
+                    "color": "rgb(196, 196, 196)"
+                }
+            }
+        ],
+        "activitiesLog": [{
+            "id": "a101",
+            "txt": "Changed Color",
+            "createdAt": 154514,
+            "byMember": {
+                "_id": "u101",
+                "fullname": "Abi Abambi",
+                "imgUrl": "http://some-img"
+            },
+            "task": {
+                "id": "t101",
+                "title": "Replace Logo"
+            }
+        }],
+        "cmpsOrder": [
+            "Status",
+            "Timeline",
+            "Priority",
+            "Person",
+            "Text"
+        ]
+    },
+    {
+        "_id": "62430dc81cdd644b3e5acabe",
+        "title": "Shiva Project",
+        "createdAt": 1589983468422,
+        "style": {
+            "bgColor": "red"
+        },
+        "labels": [{
+                "id": "l101",
+                "title": "Done",
+                "color": "#61bd4f"
+            },
+            {
+                "id": "l102",
+                "title": "Progress",
+                "color": "#61bd33"
+            }
+        ],
+        "members": [{
+                "_id": "u101",
+                "fullname": "Inbari Tzvik",
+                "imgUrl": "https://freedesignfile.com/upload/2019/04/Smiling-woman-hand-on-face-Stock-Photo.jpg"
+            },
+            {
+                "_id": "u102",
+                "fullname": "Itzik Vaknin",
+                "imgUrl": "https://www4.pictures.zimbio.com/pc/Bruce+Willis+attending+photocall+Moonrise+fNEpMjXt7jcx.jpg"
+            },
+            {
+                "_id": "u103",
+                "fullname": "Bill Gabi",
+                "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg"
+            }
+        ],
+        "groups": [{
+                "id": "g101",
+                "title": "Group 1",
+                "tasks": [{
+                        "id": "t101",
+                        "title": "Replace logo",
+                        "status": "Working on it",
+                        "priority": "Medium",
+                        "members": [{
+                                "_id": "u101",
+                                "fullname": "Inbari Tzvik",
+                                "imgUrl": "https://freedesignfile.com/upload/2019/04/Smiling-woman-hand-on-face-Stock-Photo.jpg"
+                            },
+                            {
+                                "_id": "u102",
+                                "fullname": "Itzik Vaknin",
+                                "imgUrl": "https://www4.pictures.zimbio.com/pc/Bruce+Willis+attending+photocall+Moonrise+fNEpMjXt7jcx.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "t102",
+                        "title": "Add Samples",
+                        "status": "Stuck",
+                        "priority": "High",
+                        "members": [{
+                            "_id": "u102",
+                            "fullname": "Itzik Vaknin",
+                            "imgUrl": "https://www4.pictures.zimbio.com/pc/Bruce+Willis+attending+photocall+Moonrise+fNEpMjXt7jcx.jpg"
+                        }]
+                    },
+                    {
+                        "id": "t113",
+                        "title": "Working on css ",
+                        "status": "Stuck",
+                        "priority": "Medium",
+                        "members": []
+                    },
+                    {
+                        "id": "t115",
+                        "title": "Today i don't feel like doing anything",
+                        "status": "Done",
+                        "priority": "Low",
+                        "members": []
+                    }
+                ],
+                "style": {
+                    "color": "rgb(87, 155, 252)"
+                }
+            },
+            {
+                "id": "g201",
+                "title": "Group 5",
+                "tasks": [{
+                        "id": "c201",
+                        "title": "Replace logo",
+                        "status": "Working on it",
+                        "priority": "Medium",
+                        "members": []
+                    },
+                    {
+                        "id": "c202",
+                        "title": "Add Samples",
+                        "status": "Stuck",
+                        "priority": "Medium",
+                        "members": []
+                    },
+                    {
+                        "id": "c213",
+                        "title": "Working on css ",
+                        "status": "Stuck",
+                        "priority": "Medium",
+                        "members": []
+                    },
+                    {
+                        "id": "c215",
+                        "title": "Today i don't feel like doing anything",
+                        "status": "Done",
+                        "priority": "Medium",
+                        "members": []
+                    }
+                ],
+                "style": {
+                    "color": "rgb(187, 51, 84)"
+                }
+            }
+        ],
+        "activitiesLog": [{
+            "id": "a101",
+            "txt": "Changed Color",
+            "createdAt": 154514,
+            "byMember": {
+                "_id": "u101",
+                "fullname": "Abi Abambi",
+                "imgUrl": "http://some-img"
+            },
+            "task": {
+                "id": "t101",
+                "title": "Replace Logo"
+            }
+        }],
+        "cmpsOrder": [
+            "Status",
+            "Timeline",
+            "Priority",
+            "Person",
+            "Text"
+        ]
+    }
+]

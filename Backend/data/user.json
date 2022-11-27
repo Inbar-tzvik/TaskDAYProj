@@ -1,0 +1,66 @@
+[{
+        "_id": "u101",
+        "fullname": "Inbari Tzvik",
+        "username": "1234",
+        "password": "4321",
+        "imgUrl": "https://freedesignfile.com/upload/2019/04/Smiling-woman-hand-on-face-Stock-Photo.jpg",
+        "mentions": [{
+            "id": "m101",
+            "boardId": "62430dc81cdd644b3e5acabd",
+            "taskId": "t101"
+        }],
+        "isAdmin": true
+    },
+    {
+        "_id": "u102",
+        "fullname": "Itzik Vaknin",
+        "username": "1234",
+        "password": "4321",
+        "imgUrl": "https://www4.pictures.zimbio.com/pc/Bruce+Willis+attending+photocall+Moonrise+fNEpMjXt7jcx.jpg",
+        "mentions": [{
+            "id": "m101",
+            "boardId": "62430dc81cdd644b3e5acabd",
+            "taskId": "t101"
+        }],
+        "isAdmin": true
+    },
+    {
+        "_id": "u103",
+        "fullname": "Bill Gabi",
+        "username": "1234",
+        "password": "4321",
+        "imgUrl": "https://cdn.pixabay.com/photo/2020/02/17/20/22/beard-4857726_960_720.jpg",
+        "mentions": [{
+            "id": "m101",
+            "boardId": "62430dc81cdd644b3e5acabd",
+            "taskId": "t101"
+        }],
+        "isAdmin": false
+    },
+    {
+        "_id": "u104",
+        "fullname": "Shlomi Nugra",
+        "username": "1234",
+        "password": "4321",
+        "imgUrl": "https://image.shutterstock.com/image-photo/close-portrait-smiling-handsome-man-260nw-1011569245.jpg",
+        "mentions": [{
+            "id": "m101",
+            "boardId": "62430dc81cdd644b3e5acabd",
+            "taskId": "t101"
+        }],
+        "isAdmin": false
+    },
+]
+// {
+//     "_id": "u104",
+//     "fullname": "Erez tal",
+//     "username": "baba23",
+//     "password": "4321",
+//     "imgUrl": "https://pbs.twimg.com/media/DxwB0a_WoAEQShC.jpg",
+//     "mentions": [{
+//         "id": "m101",
+//         "boardId": "62430dc81cdd644b3e5acabd",
+//         "taskId": "t101"
+//     }],
+//     "isAdmin": false
+// }
